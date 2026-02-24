@@ -3,7 +3,8 @@ Project Overview
 Conducted a 60-minute in-depth qualitative interview as part of MKT 512 (Customer Insights & Analytics) to analyze the evolving relationship between a daily Spotify Premium user and the platform.
 This assignment focused on understanding not just usage behavior, but the emotional, functional, and social dimensions of a continuous service relationship
 
-### Full report available here:
+### Full report available here: [IA1-MKT512-BeulahKannan 2.pdf](https://github.com/user-attachments/files/25532654/IA1-MKT512-BeulahKannan.2.pdf)
+
 ### What I Did: 
 
 - Designed a structured discussion guide based on relationship marketing frameworks
@@ -28,3 +29,5 @@ This assignment focused on understanding not just usage behavior, but the emotio
 - Emotional & functional **value diagnosis**
 - Translating narrative data into **business implications**
 - Executive-level **strategic storytelling**
+<img width="948" height="499" alt="Screenshot 2026-02-24 at 5 22 34 PM" src="https://github.com/user-attachments/assets/67c7adc1-5226-4952-8a24-e91038caeaed" />
+
